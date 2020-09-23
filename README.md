@@ -12,3 +12,9 @@ function test() {
   console.log("この関数の前に空白行があるのがわかりますか?");
 }
 ```
+react
+```react
+function test() {
+  console.log("この関数の前に空白行があるのがわかりますか?");
+}
+```
